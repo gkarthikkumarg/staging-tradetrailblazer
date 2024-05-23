@@ -12,7 +12,7 @@
     "hosting": {
       "site": "stagingtradetrailblazer",
       "public": "public",
-      ...
+      
     }
   }
 }
