@@ -1,18 +1,11 @@
 {
   "hosting": {
     "public": "public",
+    "site": "stagingtradetrailblazer",
     "ignore": [
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
     ]
-  }
-
-  {
-    "hosting": {
-      "site": "stagingtradetrailblazer",
-      "public": "public"
-      
-    }
   }
 }
