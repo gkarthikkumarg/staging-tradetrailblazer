@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "firebase": "^10.12.1"
+  }
+}
+
+{
+  "hosting": {
+    "site": "stagingtradetrailblazer",
+
+    "public": "public",
+    ...
+  }
+}
