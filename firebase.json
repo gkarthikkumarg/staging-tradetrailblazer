@@ -11,7 +11,7 @@
   {
     "hosting": {
       "site": "stagingtradetrailblazer",
-      "public": "public",
+      "public": "public"
       
     }
   }
